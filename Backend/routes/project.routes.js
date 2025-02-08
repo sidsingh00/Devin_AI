@@ -13,4 +13,6 @@ router.post('/create',
     
 )
 
+router.get('all',)
+
 export default router;
